@@ -91,8 +91,11 @@ The dashboard allows users to explore sales performance dynamically using slicer
 │   └── Decathlon_Sales_and_Customer_Analysis.xlsx
 │
 ├── Dashboard Screenshot/
-│   └── Dashboard.png
-│
+|  └── Dashboard.png
+|
+├── Report/
+│ └── Decathlon_Sales_and_Customer_Analysis_Reporting.pdf
+|
 └── README.md
 ```
 
